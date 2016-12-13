@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: emile <emile.fleming@gmail.com>
 Depends: winterboard
 Filename: debs//com.emile.gum.deb
-Size: 2490816
+Size: 2446206
 MD5sum: b542a588c8d0309369f96ccaf86c0165
-SHA1: 50a6aafbae759f7aeac1cfba07831bb319e50faa
-SHA256: 91df08864b5a2e1f130a205defde41dd7fb4de313f1127d0a21667a6814e2197
+SHA1: 52ea3ee078f3658efa6281c74df6cd0e19de93c2
+SHA256: b0c8e3fd48eb82a308f4102ad64e1878843938b992f374466ef40e97a7592545
 Section: Themes
 Description: gum theme 2446206
 Author: emile <emile.fleming@gmail.com>
