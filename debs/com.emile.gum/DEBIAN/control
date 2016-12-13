@@ -1,0 +1,10 @@
+Package: com.emile.gum
+Name: gum
+Version: 01
+Section: Themes (SpringBoard)
+Depends: winterboard
+Architecture: iphoneos-arm
+Description: it's the gum theme.
+Author: emile <emile.fleming@gmail.com>
+Sponsor: ()
+Maintainer: ()
