@@ -1,0 +1,9 @@
+Origin: gum repo
+Label: gum repo
+Suite: stable
+Version: 1.0
+Codename: gum
+Architectures: iphoneos-arm
+Components: main
+Description: gum repo
+MD5Sum:
